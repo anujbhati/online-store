@@ -1,4 +1,3 @@
-
 <?php
     // if the user enters the page without submitting the form will redirected to the index page
     if (!isset($_POST['make-my-order'])){
