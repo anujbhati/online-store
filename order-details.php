@@ -1,5 +1,4 @@
-<!-- /GURKIRAT SINGH 7518319 -->
-<!-- /ROHIT SEHGAL 7530264 -->
+
 <?php
     // if the user enters the page without submitting the form will redirected to the index page
     if (!isset($_POST['make-my-order'])){
