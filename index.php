@@ -1,5 +1,4 @@
-<!-- /GURKIRAT SINGH 7518319 -->
-<!-- /ROHIT SEHGAL 7530264 -->
+
 <!DOCTYPE html>
 <html>
   <head>
